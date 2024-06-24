@@ -12,6 +12,7 @@ I love dogs.!
 * ⚡  I wish to have my youtube channel
 
 ![001-funny-animal-gifs-dog](https://github.com/Thabang072/Thabang072/assets/168541517/d1078b27-34fa-4839-9838-a413a1321a48)
+![dog-gif](https://github.com/Thabang072/Thabang072/assets/168541517/65875dfa-8666-432d-b312-935954fcdb97)
 
 ### Skills
 
