@@ -10,6 +10,7 @@ I love dogs.!
 * 🚀  I'm currently working on [SDF Projects](http://github.com/Thabang072)
 * 🧠  I'm learning currently learning HTML5,CSS3,Tailwindcss,JavaScript,Firebase,Node.js and Github.
 * ⚡  I wish to have my youtube channel
+![dog-gif](https://github.com/Thabang072/Thabang072/assets/168541517/1387223a-7a70-489a-824d-f5243f227dcc)
 
 ![001-funny-animal-gifs-dog](https://github.com/Thabang072/Thabang072/assets/168541517/d1078b27-34fa-4839-9838-a413a1321a48)
 
