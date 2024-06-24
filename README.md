@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer Student
 --------------------------
-![download](https://github.com/Thabang072/Thabang072/assets/168541517/3c03e4ba-b100-498c-b158-eb4bbff3a77f)
-
 I love food.!
 
 * 🌍  I'm based in Cape Town.
