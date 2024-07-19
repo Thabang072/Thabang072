@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer Student  
 -----------------------
 I'm Thabang , an aspiring Software Developer currently studying at CodeSpace Academy.
+I've embarked on a journey to learn and grow my skills into these exciting world of software development.
 
 
 * I love dogs.!
