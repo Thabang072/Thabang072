@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thabang Selowa
 ======================================================================================================================================
 
-Software Developer Student
+Software Developer Student  
 -----------------------
+I'm Thabang , an aspiring Software Developer currently studying at CodeSpace Academy.
+
 
 * I love dogs.!
 * 🌍  I'm based in Cape Town.
