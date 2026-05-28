@@ -11,7 +11,7 @@ I've embarked on a journey to learn and grow my skills into these exciting world
 * 🌍  I'm based in Cape Town.
 * ✉️  You can contact me at [mohale20cobra@gmail.com](mailto:mohale20cobra@gmail.com)
 * 🚀  I'm currently working on [SDF Projects](http://github.com/Thabang072)
-* 🧠  I'm learning currently learning HTML5,CSS3,Tailwindcss,JavaScript,Firebase,Node.js and Github.
+* 🧠  I'm  currently learning HTML5,CSS3,Tailwindcss,JavaScript,Firebase,Node.js and Github.
 * ⚡  I wish to have my youtube channel
 * I love dogs.!
 
