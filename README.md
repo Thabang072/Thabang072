@@ -1,16 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thabang Selowa
 ======================================================================================================================================
 
-Software Developer Student  
+Software Developer   
 -----------------------
-I'm Thabang , an aspiring Software Developer currently studying at CodeSpace Academy.
-I've embarked on a journey to learn and grow my skills into these exciting world of software development.
+👋 Hi, I'm Thabang MacMillan Selowa — Junior Software Developer.
+
+💻 Passionate about building practical applications with JavaScript, React, HTML5, CSS3, C#, SQL and .NET.
+
+🤖 Microsoft Certified: Azure AI Fundamentals (AI-901)
+
+🚀 Experienced in building projects involving REST APIs, database integration, React applications, Git/GitHub and responsive web development.
+
+🎯 Currently expanding my skills toward becoming a well-rounded full-stack developer.
 
 
 
 * 🌍  I'm based in Cape Town.
 * ✉️  You can contact me at [mohale20cobra@gmail.com](mailto:mohale20cobra@gmail.com)
-* 🚀  I'm currently working on [SDF Projects](http://github.com/Thabang072)
+* 🚀  I'm currently working on [HotelBookingApp](http://github.com/Thabang072)
 * 🧠  I'm  currently learning HTML5,CSS3,Tailwindcss,JavaScript,Firebase,Node.js and Github.
 * ⚡  I wish to have my youtube channel
 * I love dogs.!
