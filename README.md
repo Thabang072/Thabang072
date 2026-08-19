@@ -3,23 +3,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer   
 -----------------------
-👋 Hi, I'm Thabang MacMillan Selowa — Junior Software Developer.
+👋 Hi, I'm Thabang MacMillan Selowa, a Junior Software Developer and Software Development student passionate about building practical, user-focused applications.
 
-💻 Passionate about building practical applications with JavaScript, React, HTML5, CSS3, C#, SQL and .NET.
+💻 I have experience with HTML5, CSS3, JavaScript, React, Node.js, Express, MongoDB, Git & GitHub, and I'm currently expanding my backend and software development skills with C# and SQL.
 
-🤖 Microsoft Certified: Azure AI Fundamentals (AI-901)
+🤖 Microsoft Certified: Azure AI Fundamentals (AI-901), with an interest in Artificial Intelligence and modern software development.
 
-🚀 Experienced in building projects involving REST APIs, database integration, React applications, Git/GitHub and responsive web development.
+🚀 I've worked on projects including a React podcast application featuring API integration, React Router, localStorage, search, favourites, and audio playback, as well as a C#/.NET hotel booking API with database integration and CRUD functionality.
 
-🎯 Currently expanding my skills toward becoming a well-rounded full-stack developer.
-
-
+🎯 I'm continuously learning and working toward becoming a well-rounded full-stack developer, while improving my problem-solving, collaboration, and software development skills.
 
 * 🌍  I'm based in Cape Town.
 * ✉️  You can contact me at [mohale20cobra@gmail.com](mailto:mohale20cobra@gmail.com)
 * 🚀  I'm currently working on [HotelBookingApp](https://github.com/Thabang072/HotelBookingApp)
-* 🧠  I'm  currently learning HTML5,CSS3,Tailwindcss,JavaScript,Firebase,Node.js and Github.
-* ⚡  I wish to have my youtube channel
 * I love dogs.!
 
 ### Skills
